@@ -49,7 +49,6 @@
 	<img src="https://img.shields.io/badge/Google_Calendar-2563eb?style=for-the-badge&logo=googlecalendar&logoColor=ffffff" alt="Google Calendar" />
 	<img src="https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=openapiinitiative&logoColor=22d3ee" alt="REST APIs" />
 	<img src="https://img.shields.io/badge/n8n-7c3aed?style=for-the-badge&logo=n8n&logoColor=ffffff" alt="n8n" />
-	<img src="./public/readme/openai-api-badge.svg" alt="OPENAI API" />
 	<img src="https://img.shields.io/badge/YCloud-0369a1?style=for-the-badge&logo=icloud&logoColor=ffffff" alt="YCloud" />
 	<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=ffffff" alt="Ollama" />
 </p>
