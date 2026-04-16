@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="https://alexmidev.site" target="_blank" rel="noreferrer">
+	<a href="https://portafolio.alexmidev.site" target="_blank" rel="noreferrer">
 		<img src="https://img.shields.io/badge/Visit%20Portfolio-alexmidev.site-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Portfolio" />
 	</a>
 </p>
